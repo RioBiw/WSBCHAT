@@ -1,4 +1,4 @@
-
+![1 in 3](https://user-images.githubusercontent.com/94118012/221578030-43e8d310-1afb-4f3a-825f-129dc69ff9db.png)
 # WsbChat!
 # My Goal
 The objective of this app is to learn how to incorporate Firebase into our Flutter apps. I'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip my app with a cloud based NoSQL database and secure authentication methods.
