@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318514554552",
+    "project_id": "wsb-chat-7cba6",
+    "storage_bucket": "wsb-chat-7cba6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318514554552:android:0e33881a418d9f7cd6364d",
+        "android_client_info": {
+          "package_name": "com.riobiw.wsb_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318514554552-854rvfqds2po73hu2cnkdv21hmcko53f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfOtRTZJslGDZ8qcXcscQ911LWH29mw4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318514554552-854rvfqds2po73hu2cnkdv21hmcko53f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
