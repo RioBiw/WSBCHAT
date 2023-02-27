@@ -1,3 +1,4 @@
+
 # WsbChat
 # Our Goal
 The objective of this app is to learn how to incorporate Firebase into our Flutter apps. I'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip my app with a cloud based NoSQL database and secure authentication methods.
